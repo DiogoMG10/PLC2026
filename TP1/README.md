@@ -9,4 +9,4 @@ Foto: [Foto](foto.jpg)
 Neste TP foi construída uma expressão regular para reconhecer strings binárias que não contenham a substring '011'.
 
 ## Resultados
-- [Exercício 1]: ex1.txt
+- [Exercício 1](ex1.txt)
